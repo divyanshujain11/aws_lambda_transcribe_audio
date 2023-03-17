@@ -15,7 +15,7 @@ Connect S3 bucket as a trigger for lambda function.
 
 ## Step4
 Write a code in lambda function which contact to transcribe service that convert mp3 file to audio file.
-![Integrating video](https://user-images.githubusercontent.com/77712311/225927659-9c413d47-95a2-4f24-b083-14d20553120b.mp4)
+![python code](https://github.com/divyanshujain11/aws_lambda_transcribe_audio/blob/fb4269d52db096d325d64d6ad4fbab54e0323381/lambda_function.py)
 
 
 ## Step5
@@ -30,4 +30,11 @@ Upload mp3 file in S3 bucket.
 
 ## Step7
 Download Transcribe file in JSON form.
+
+#Video of whole process
+
+
+
+
+https://user-images.githubusercontent.com/77712311/225930373-e50e6d70-3cac-4dec-9fe4-fc43004aaad5.mp4
 
